@@ -1,7 +1,7 @@
 # placement_stats_2025
-Placement statistics of SRIT college for the year 2025
+Placement statistics of our college for the year 2025
 
-This project provides a detailed analysis of the placement statistics of SRIT college for the academic year 2025. It includes breakdowns of company-wise placements,
+This project provides a detailed analysis of the placement statistics of our college for the academic year 2025. It includes breakdowns of company-wise placements,
 branch-wise distributions, gender ratios, CTC distributions, and highlights of the top-paying jobs.
 
 The insights are generated using Python with `pandas` for data processing and basic formatting for clean terminal output.

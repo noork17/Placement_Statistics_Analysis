@@ -17,7 +17,7 @@ The insights are generated using Python with `pandas` for data processing and ba
 
 1. Clone the repository
    
-   git clone https://github.com/tharunizx/placement_stats_2025.git  
+   git clone https://github.com/noork17/Placement_Statistics_Analysis.git  
    cd placement_stats_2025
    
 2. Install pandas and tabulate for computing statistics and formating data:
